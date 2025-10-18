@@ -1,0 +1,9 @@
+# Dataset
+Data_emotion_sample/
+
+# Modèle
+
+# Jupyter et caches Python
+*.ipynb_checkpoints/
+__pycache__/
+*.pyc
