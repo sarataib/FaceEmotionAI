@@ -2,7 +2,6 @@
 Data_emotion_sample/
 
 # Modèle
-emotion_recognition_model.h5
 
 # Jupyter et caches Python
 *.ipynb_checkpoints/
